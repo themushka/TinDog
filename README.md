@@ -1,2 +1,1 @@
-# TinDog
-find your love!
+TinDog Starting Files
